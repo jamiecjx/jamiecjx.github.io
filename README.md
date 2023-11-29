@@ -1,6 +1,7 @@
 # jamiecjx.github.io
 
 3rd year undergraduate student in Mathematics MSci, at Imperial College London
+
 LinkedIn: https://www.linkedin.com/in/james-chen-040baa24a/
 
 
