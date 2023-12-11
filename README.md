@@ -7,6 +7,8 @@ LinkedIn: https://www.linkedin.com/in/james-chen-040baa24a/
 
 Academic CV (Temporary): https://github.com/jamiecjx/jamiecjx.github.io/blob/main/CV%20cam.pdf
 
+Industry CV (Temporary): https://github.com/jamiecjx/jamiecjx.github.io/blob/main/CV%20ac.pdf
+
 ## Things I have done
 Julia package for computing free convolutions, which have applications in eigenvalue statistics of random matrices.
 
